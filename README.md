@@ -7,10 +7,6 @@ In this project, data engineering is applied to analyze disaster data from <a hr
 
 _data_ directory contains a data set which are real messages that were sent during disaster events.This project will include a web app where when a new message is input, will publish classification results in several categories. The web app will also display visualizations of the data.
 
-[Here](#eg) are a few screenshots of the web app.
-
-<a id='components'></a>
-
 ## 2. Project Components
 
 There are three components of this project:
@@ -45,7 +41,7 @@ File _models/train_classifier.py_ contains machine learning pipeline that:
 
 <a id='eg'></a>
 
-Running [this command](#com) **from app directory** will start the web app where users can enter their query, i.e., a request message sent during a natural disaster, e.g. _"Please, we need tents and water. We are in Silo, Thank you!"_.
+Running command from app directory will start the web app where users can enter their query, i.e., a request message sent during a natural disaster, e.g. _"Please, we need tents and water. We are in Silo, Thank you!"_.
 
 **_Screenshot 1_**
 
