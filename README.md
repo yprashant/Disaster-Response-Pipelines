@@ -135,7 +135,7 @@ This will start the web app and will direct you to a URL where you can enter mes
 
 **_Screenshot 8_**
 
-![graphs](screenshots/Messages Vs Category and Frequency of Top 10 words.jpg)
+![graphs](screenshots/Top10_results.jpg)
 
 
 ## 5. Files
